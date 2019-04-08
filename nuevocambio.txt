@@ -11,4 +11,6 @@ git branch solo la crea
 git check rama solo va a ella
 muy importante: siempre trabajar en ramas, NUNCA en el master
 
+echo para escribir algo dentro de un archivo
 
+Git Command	Description (Summary IRONHACK)
