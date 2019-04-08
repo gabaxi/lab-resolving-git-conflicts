@@ -12,9 +12,8 @@ git check rama solo va a ella
 muy importante: siempre trabajar en ramas, NUNCA en el master
 
 echo para escribir algo dentro de un archivo
-<<<<<<< HEAD
 
-Git Command	Description (Summary IRONHACK)
+Git Command	Description (Summary)
 git init	Create empty Git repo in specified directory. Run with no arguments to initialize the current directory as a git repository
 git clone <repo>	Clone repo located at <repo> onto local machine. Original repo can be located on the local filesystem or on a remote machine via HTTP or SSH.
 git status	List which files are staged, unstaged, and untracked.
@@ -26,7 +25,4 @@ git push <remote> <branch>	Push the branch to <remote>, along with necessary com
 git pull <remote>	Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 git branch	List all of the branches in your repo. Add a <branch> argument to create a new branch with the name <branch>
 
-=======
->>>>>>> ramita
-
-Git Command	Description (Summary IRONHACK)
+rama 2 para el super pantallazo
