@@ -1,0 +1,14 @@
+Hola,
+Aqui va un pequeño resumen de los comandos de la consola:
+pwd para saber en qué directorio estamos
+ls para imprimir los ficheros que hay
+mkdir para crear un nuevo directorio
+touch para crear un nuevo archivo
+rm -r para borrarlo
+git clone para clonar un repositorio de GitHub a local
+git checkout -b rama para crear una rama e ir a ella directo
+git branch solo la crea
+git check rama solo va a ella
+muy importante: siempre trabajar en ramas, NUNCA en el master
+
+
