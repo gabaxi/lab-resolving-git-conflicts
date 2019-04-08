@@ -12,6 +12,7 @@ git check rama solo va a ella
 muy importante: siempre trabajar en ramas, NUNCA en el master
 
 echo para escribir algo dentro de un archivo
+<<<<<<< HEAD
 
 Git Command	Description (Summary IRONHACK)
 git init	Create empty Git repo in specified directory. Run with no arguments to initialize the current directory as a git repository
@@ -25,4 +26,7 @@ git push <remote> <branch>	Push the branch to <remote>, along with necessary com
 git pull <remote>	Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 git branch	List all of the branches in your repo. Add a <branch> argument to create a new branch with the name <branch>
 
+=======
+>>>>>>> ramita
 
+Git Command	Description (Summary IRONHACK)
