@@ -14,4 +14,8 @@ muy importante: siempre trabajar en ramas, NUNCA en el master
 echo para escribir algo dentro de un archivo
 
 
+<<<<<<< HEAD
+=======
+rama rama rama
+>>>>>>> rama2
 
