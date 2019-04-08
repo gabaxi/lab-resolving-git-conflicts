@@ -25,6 +25,5 @@ git push <remote> <branch>	Push the branch to <remote>, along with necessary com
 git pull <remote>	Fetch the specified remote’s copy of current branch and immediately merge it into the local copy.
 git branch	List all of the branches in your repo. Add a <branch> argument to create a new branch with the name <branch>
 
-rama 2 para el pantallazo
-a ver si validamos el control de cambios
+rama rama rama
 
